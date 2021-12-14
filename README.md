@@ -1,6 +1,6 @@
 # URP Lit shader with glittering effect
 
-Inspired by GDC talk [Sand Rendering in Journey].
+Inspired by GDC talk [Sand Rendering in Journey]. 
 
 ## Add glittering effect on top of the object surface. 
 <img height="200" alt="result" src="https://user-images.githubusercontent.com/13420668/145828189-0b106ab0-02a5-44f4-8ab3-f01f1a4e26a1.png"> <img height="200" alt="result" src="https://user-images.githubusercontent.com/13420668/145828126-fd186dcd-2179-4df4-81b8-3773c3805780.png">
